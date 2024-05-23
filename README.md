@@ -4,9 +4,9 @@
 My name is Jenson Medina, I'm 22 years old and I'm from Rosario, Santa Fe.
 
 
-I started learning about programming in 2021 and i decided that I wanted to dedicate myself to this so I began to study self-taught and taking courses on the internet, I am currently studying a technical degree in programming at the National Technological University, 2nd year.
+I started learning about programming in 2021 and i decided that I wanted to dedicate myself to this so I began to study self-taught and taking courses on the internet, I am currently studying a technical degree in programming at the National Technological University.
 
-Tengo conocimientos en C, C#, .NET Framework, Python, HTML, CSS, JavaScript, Bootstrap, SQL Server, MySQL,  Git, GitHub.
+I have experience in C, C#, .NET Framework, Python, HTML, CSS, JavaScript, Bootstrap, SQL Server, MySQL,  Git, GitHub.
 
 
 ## 🔗 Links
