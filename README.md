@@ -5,6 +5,7 @@
 
 
 🔧 Mis Skills:
+
 Lenguajes y Frameworks: C#, .NET, JavaScript, React, HTML5, CSS3.
 
 Herramientas y Librerías: Entity Framework, Git, GitHub, Tailwind CSS, Bootstrap.
